@@ -1,1 +1,3 @@
 pipeline,resource,pattern,value
+neighbourhood-plan-area,,geography,statistical-geography
+neighbourhood-plan-area,,description,official-name
